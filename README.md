@@ -58,7 +58,6 @@ uts-graf-sains-data-retailrocket/
 ├── notebook_uts.ipynb
 ├── retailrocket_P1.csv
 ├── retailrocket_P2.csv
-├── requirements.txt
 └── README.md
 ```
 
