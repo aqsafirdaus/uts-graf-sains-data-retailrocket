@@ -64,7 +64,7 @@ uts-graf-sains-data-retailrocket/
 
 ## Sumber Dataset
 
-RetailRocket e-commerce dataset: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+RetailRocket e-commerce dataset: https://www.kaggle.com/api/v1/datasets/download/retailrocket/ecommerce-dataset
 
 ---
 
