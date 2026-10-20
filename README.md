@@ -27,8 +27,8 @@ Kolom utama yang digunakan:
 
 Data dibagi menjadi dua periode berdasarkan timestamp:
 
-- **P1 — Data pelatihan:** 3 Mei 2015 sampai 23 Mei 2015.
-- **P2 — Data pengujian:** 25 Agustus 2015 sampai 14 September 2015.
+- **P1 — Data pelatihan:** 3 Mei 2015 sampai 24 Mei 2015.
+- **P2 — Data pengujian:** 25 Agustus 2015 sampai 15 September 2015.
 
 P1 digunakan untuk membentuk matriks interaksi pengguna-item dan mencari tetangga terdekat. P2 digunakan untuk memeriksa relevansi item rekomendasi berdasarkan interaksi aktual pengguna pada periode pengujian.
 
